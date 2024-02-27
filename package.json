@@ -1,0 +1,27 @@
+{
+  "name": "nuxt3-helpcenter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@nuxt/kit": "3.10.3",
+    "@nuxtjs/i18n": "8.0.0-beta.10",
+    "nuxt": "^3.10.3",
+    "sass": "^1.45.2",
+    "vue": "^3.4.19",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/device": "^3.1.1",
+    "sass": "^1.45.2",
+    "vite-plugin-vuetify": "^2.0.1",
+    "vuetify": "^3.5.6"
+  }
+}

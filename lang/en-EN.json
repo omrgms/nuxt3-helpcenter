@@ -1,0 +1,80 @@
+{
+  "helpCenter": {
+    "pageTitle": "Help Center",
+    "title": "How can we help you?",
+    "description": "You can reach the help content by typing a subject title in the search box or using the menu.",
+    "faq": "Frequently Asked Questions",
+    "resultText": "results related to",
+    "notResultText": "No results were found."
+  },
+  "supportSidebar": [
+    {
+      "id": 1,
+      "name": "Membership",
+      "submenu": "1",
+      "children": [
+        {
+          "name": "Individual Membership",
+          "submenu": "1",
+          "children": [
+            {
+              "title": "How Do I Sign Up?",
+              "slug": "how-do-i-sign-up"
+            },
+            {
+              "title": "How Do I Activate My Membership?",
+              "slug": "how-do-i-activate-my-membership"
+            },
+            {
+              "title": "What Can I Do If I Did Not Receive The Activation Link?",
+              "slug": "what-can-i-do-if-i-did-not-receive-the-activation-link"
+            },
+            {
+              "title": "I Forgot My Password, How Can I Log In?",
+              "slug": "i-forgot-my-password-how-can-i-log-in"
+            },
+            {
+              "title": "How Can I Change My Password?",
+              "slug": "how-can-i-change-my-password"
+            },
+            {
+              "title": "How Can I Change My Phone Number?",
+              "slug": "how-can-i-change-my-phone-number"
+            },
+            {
+              "title": "How Do I Update My Profile Information?",
+              "slug": "how-do-i-update-my-profile-information"
+            },
+            {
+              "title": "Where Can I Access The Contracts?",
+              "slug": "where-can-i-access-the-contracts"
+            },
+            {
+              "title": "How Can I Delete My Account?",
+              "slug": "how-can-i-delete-my-account"
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FaQuestions",
+      "submenu": "0",
+      "children": [
+        {
+          "title": "Why Should I Use Vue.js?",
+          "slug": "why-should-i-use-vue-js"
+        },
+        {
+          "title": "What's the Difference Between Vue.js and Nuxt.js?",
+          "slug": "whats-the-difference-between-vue-js-and-nuxt-js"
+        },
+        {
+          "title": "How to Design Modern Web Applications with Vuetify 3?",
+          "slug": "how-to-design-modern-web-applications-with-vuetify-3"
+        }
+      ]
+    }
+  ]
+}
